@@ -1,0 +1,15 @@
+C:\Users\landi\RiderProjects\branching\branching\bin\Debug\net7.0\branching.exe
+C:\Users\landi\RiderProjects\branching\branching\bin\Debug\net7.0\branching.deps.json
+C:\Users\landi\RiderProjects\branching\branching\bin\Debug\net7.0\branching.runtimeconfig.json
+C:\Users\landi\RiderProjects\branching\branching\bin\Debug\net7.0\branching.dll
+C:\Users\landi\RiderProjects\branching\branching\bin\Debug\net7.0\branching.pdb
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.AssemblyInfoInputs.cache
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.AssemblyInfo.cs
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.csproj.CoreCompileInputs.cache
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.sourcelink.json
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.dll
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\refint\branching.dll
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.pdb
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\branching.genruntimeconfig.cache
+C:\Users\landi\RiderProjects\branching\branching\obj\Debug\net7.0\ref\branching.dll
